@@ -1,0 +1,128 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Product Video\n"
+"POT-Creation-Date: 2022-12-06 20:16+0800\n"
+"PO-Revision-Date: 2022-12-06 20:14+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-product-video.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: library\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: library/toms-html-in-product-image.php:43
+#: library/toms-product-video-html.php:69
+msgid "Your browser doesn't support HTML5 video."
+msgstr ""
+
+#: toms-product-video.php:86 toms-product-video.php:102
+msgid "Product Video"
+msgstr ""
+
+#: toms-product-video.php:112
+msgid "Give 5-Star for us"
+msgstr ""
+
+#: toms-product-video.php:119
+msgid "Video Url"
+msgstr ""
+
+#: toms-product-video.php:122
+msgid "Enter the url of your video or choose one from media library."
+msgstr ""
+
+#: toms-product-video.php:135
+msgid "Choose a video"
+msgstr ""
+
+#: toms-product-video.php:143
+msgid "Video Poster Image"
+msgstr ""
+
+#: toms-product-video.php:146
+msgid "Enter an image url or choose one from media library."
+msgstr ""
+
+#: toms-product-video.php:156
+msgid "Choose an image"
+msgstr ""
+
+#: toms-product-video.php:164
+msgid "Video Position"
+msgstr ""
+
+#: toms-product-video.php:167
+msgid "Select a position for video display."
+msgstr ""
+
+#: toms-product-video.php:169
+msgid "In Product Description"
+msgstr ""
+
+#: toms-product-video.php:170
+msgid "Under Product Image"
+msgstr ""
+
+#: toms-product-video.php:171
+msgid "After Add to card button"
+msgstr ""
+
+#: toms-product-video.php:172
+msgid "Before Product Tabs"
+msgstr ""
+
+#: toms-product-video.php:183
+msgid "Video Size"
+msgstr ""
+
+#: toms-product-video.php:224
+msgid "When screen less than 540px will always"
+msgstr ""
+
+#: toms-product-video.php:228
+msgid "Video Padding Top/Bottom"
+msgstr ""
+
+#: toms-product-video.php:280
+msgid "Video Padding Left/Right"
+msgstr ""
+
+#: toms-product-video.php:335
+msgid "Powered by"
+msgstr ""
+
+#: toms-product-video.php:335
+msgid "TomS Caprice"
+msgstr ""
+
+#: toms-product-video.php:397
+msgid "Description"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TomS Product Video"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The simplest video player for woocommerce single product."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://TomS-Caprice.org"
+msgstr ""

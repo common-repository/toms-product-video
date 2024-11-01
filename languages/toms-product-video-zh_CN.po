@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Product Video\n"
+"POT-Creation-Date: 2022-12-06 20:16+0800\n"
+"PO-Revision-Date: 2022-12-06 21:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-product-video.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: library\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: library/toms-html-in-product-image.php:43
+#: library/toms-product-video-html.php:69
+msgid "Your browser doesn't support HTML5 video."
+msgstr "您的浏览器不支持 HTML5 视频。"
+
+#: toms-product-video.php:86 toms-product-video.php:102
+msgid "Product Video"
+msgstr "产品视频"
+
+#: toms-product-video.php:112
+msgid "Give 5-Star for us"
+msgstr "给我们5星好评"
+
+#: toms-product-video.php:119
+msgid "Video Url"
+msgstr "视频URL"
+
+#: toms-product-video.php:122
+msgid "Enter the url of your video or choose one from media library."
+msgstr "直接输入视频URL或从媒体库中选择一个视频。"
+
+#: toms-product-video.php:135
+msgid "Choose a video"
+msgstr "选择一个视频"
+
+#: toms-product-video.php:143
+msgid "Video Poster Image"
+msgstr "视频海报图片"
+
+#: toms-product-video.php:146
+msgid "Enter an image url or choose one from media library."
+msgstr "直接输入图像URL或从媒体库中选择一张图片。"
+
+#: toms-product-video.php:156
+msgid "Choose an image"
+msgstr "选择一张图片"
+
+#: toms-product-video.php:164
+msgid "Video Position"
+msgstr "视频显示位置"
+
+#: toms-product-video.php:167
+msgid "Select a position for video display."
+msgstr "选择视频显示在产品页面的位置。"
+
+#: toms-product-video.php:169
+msgid "In Product Description"
+msgstr "在产品描述中显示"
+
+#: toms-product-video.php:170
+msgid "Under Product Image"
+msgstr "在产品相册显示"
+
+#: toms-product-video.php:171
+msgid "After Add to card button"
+msgstr "在加入购物车按钮下方显示"
+
+#: toms-product-video.php:172
+msgid "Before Product Tabs"
+msgstr "在产品描述选项卡之上显示"
+
+#: toms-product-video.php:183
+msgid "Video Size"
+msgstr "视频尺寸调整"
+
+#: toms-product-video.php:224
+msgid "When screen less than 540px will always"
+msgstr "当屏幕小于 540 像素时将始终设置显示为"
+
+#: toms-product-video.php:228
+msgid "Video Padding Top/Bottom"
+msgstr "视频顶部/底部边距"
+
+#: toms-product-video.php:280
+msgid "Video Padding Left/Right"
+msgstr "视频左边/右边边距"
+
+#: toms-product-video.php:335
+msgid "Powered by"
+msgstr "技术支持提供者"
+
+#: toms-product-video.php:335
+msgid "TomS Caprice"
+msgstr "汤小贤"
+
+#: toms-product-video.php:397
+msgid "Description"
+msgstr "描述"
+
+#. Plugin Name of the plugin/theme
+msgid "TomS Product Video"
+msgstr "TomS产品视频"
+
+#. Description of the plugin/theme
+msgid "The simplest video player for woocommerce single product."
+msgstr "简单好用的Woocommerce产品视频播放器,可以方便的在每个产品单独设置产品视频."
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr "汤小贤"
+
+#. Author URI of the plugin/theme
+msgid "https://TomS-Caprice.org"
+msgstr "https://TomS-Caprice.org"
